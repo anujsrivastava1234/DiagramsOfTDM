@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T10:05:53.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HZTZQefS1zNhOw74ALHV" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T13:10:27.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="OBaMSM0HGLEFfwUOTA-h" version="20.5.3" type="github">
   <diagram id="aYjSBJGI4ktvpe437_4Q" name="Page-1">
-    <mxGraphModel dx="1481" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="4148" dy="2652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,8 +281,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hyQ_xfJLr_j9t_HKkY1S-36" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;u&gt;SelfCheckUp Page&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;u&gt;&lt;ol&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;&lt;u&gt;weight&lt;/u&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;height&lt;/li&gt;&lt;li style=&quot;&quot;&gt;ECG&lt;/li&gt;&lt;li style=&quot;&quot;&gt;bloodPressure&lt;/li&gt;&lt;li style=&quot;&quot;&gt;heart Rate&lt;/li&gt;&lt;li style=&quot;&quot;&gt;temperature&lt;/li&gt;&lt;li style=&quot;&quot;&gt;sugar level&lt;/li&gt;&lt;li style=&quot;&quot;&gt;spo2&lt;/li&gt;&lt;li style=&quot;&quot;&gt;stethoscope&lt;/li&gt;&lt;/ol&gt;&lt;/u&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=21;align=left;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="160" width="370" height="380" as="geometry" />
+        <mxCell id="hyQ_xfJLr_j9t_HKkY1S-36" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;SelfCheckUp Page&lt;/b&gt;&lt;/div&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;weight : Button&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;height&amp;nbsp;: Button&lt;/li&gt;&lt;li style=&quot;&quot;&gt;ECG&amp;nbsp;: Button&lt;/li&gt;&lt;li style=&quot;&quot;&gt;bloodPressure&amp;nbsp;: Button&lt;/li&gt;&lt;li style=&quot;&quot;&gt;heart Rate:&amp;nbsp;Button&lt;/li&gt;&lt;li style=&quot;&quot;&gt;temperature&amp;nbsp;: Button&lt;/li&gt;&lt;li style=&quot;&quot;&gt;sugar level&amp;nbsp;: Button&lt;/li&gt;&lt;li style=&quot;&quot;&gt;spo2&amp;nbsp;: Button&lt;/li&gt;&lt;li style=&quot;&quot;&gt;stethoscope&amp;nbsp;: Button&lt;/li&gt;&lt;li style=&quot;&quot;&gt;sypthoms : Button&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=21;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="160" width="460" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="hyQ_xfJLr_j9t_HKkY1S-37" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=21;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="280" width="70" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="hyQ_xfJLr_j9t_HKkY1S-38" value="MenuBar Buttons" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="375" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hyQ_xfJLr_j9t_HKkY1S-41" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=21;entryX=-0.002;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hyQ_xfJLr_j9t_HKkY1S-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2210" y="1080" as="sourcePoint" />
+            <mxPoint x="2260" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2260" y="1080" />
+              <mxPoint x="2440" y="810" />
+              <mxPoint x="2450" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hyQ_xfJLr_j9t_HKkY1S-42" value="SelfCheckUp Button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="830" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
