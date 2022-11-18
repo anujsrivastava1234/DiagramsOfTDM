@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T14:48:00.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sGm6ees1Zl4819K_aM8q" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T01:35:23.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5xMpWFOdppCdrffHt2Bv" version="20.5.3" type="github">
   <diagram id="aYjSBJGI4ktvpe437_4Q" name="Page-1">
-    <mxGraphModel dx="1578" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="1067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="L8MC8x3EUeCU28Ni2fcM-1" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Sign up Page&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. FullName : required&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Phone Number : required&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Password : required&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. Confirm Password: required&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1040" y="230" width="220" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="L8MC8x3EUeCU28Ni2fcM-3" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Sign in Page&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Phone Number&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Password&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-3" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Sign in Page&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Phone Number : required&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Password : required&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1730" y="235" width="200" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="L8MC8x3EUeCU28Ni2fcM-4" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Forgot Password&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Phone Number&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. OTP&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-4" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Forgot Password&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Phone Number : required&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. OTP : required&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2100" y="230" width="230" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="L8MC8x3EUeCU28Ni2fcM-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;u&gt;OTP Verification&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;1. OTP" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;u&gt;OTP Verification&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;1. OTP : required" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1390" y="230" width="210" height="250" as="geometry" />
         </mxCell>
         <mxCell id="L8MC8x3EUeCU28Ni2fcM-6" value="Sign up" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=15;entryX=0.004;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.999;exitY=0.544;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L8MC8x3EUeCU28Ni2fcM-1" target="L8MC8x3EUeCU28Ni2fcM-5">
@@ -68,6 +68,60 @@
         </mxCell>
         <mxCell id="L8MC8x3EUeCU28Ni2fcM-22" value="&lt;b&gt;Create Account&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1435" y="615" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-23" value="&lt;b&gt;Sign Up&lt;/b&gt;&lt;br&gt;Back end point&lt;br&gt;(API of sign up page)" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="680" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-24" value="&lt;b&gt;OTP verification&lt;/b&gt;&lt;br&gt;Back end point&lt;br&gt;(API of OTP page)" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="680" width="215" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-25" value="&lt;b&gt;Sign In&lt;/b&gt;&lt;br&gt;Back end point&lt;br&gt;(API of sign In page)" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="680" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-26" value="&lt;b&gt;Forgot Password&lt;/b&gt;&lt;br&gt;Back end point&lt;br&gt;(API of forgot pass, page)" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="680" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="L8MC8x3EUeCU28Ni2fcM-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="680" as="sourcePoint" />
+            <mxPoint x="1150" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.47;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="L8MC8x3EUeCU28Ni2fcM-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1490" y="680" as="sourcePoint" />
+            <mxPoint x="1540" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;exitX=0.455;exitY=-0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="L8MC8x3EUeCU28Ni2fcM-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1820" y="680" as="sourcePoint" />
+            <mxPoint x="1830" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=15;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="L8MC8x3EUeCU28Ni2fcM-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2220" y="680" as="sourcePoint" />
+            <mxPoint x="2270" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-31" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="970" width="840" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-32" value="Dashboard" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="990" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-33" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=15;" edge="1" parent="1" target="L8MC8x3EUeCU28Ni2fcM-31">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1830" y="790" as="sourcePoint" />
+            <mxPoint x="1910" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-36" value="&lt;b&gt;Nav Bar&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Home&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Search&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Message&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Notification&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Profile&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Logout&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="1050" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="L8MC8x3EUeCU28Ni2fcM-37" value="&lt;b&gt;Check Up&lt;br&gt;1. SelfCheckUp&lt;br&gt;2. HealthReport&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1050" width="240" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
